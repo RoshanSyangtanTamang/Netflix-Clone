@@ -162,6 +162,10 @@ body {
         font-size: 2rem;
     }
 
+    .gs {
+        width: 150px;
+    }
+
     .movie-container img {
         width: 150px;
     }
